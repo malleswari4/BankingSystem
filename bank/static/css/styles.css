@@ -1,0 +1,19 @@
+.card-header{
+    background-color:#f76c6c;
+    color: floralwhite;
+    
+}
+.card-body{
+     background-color: #5Ab9ea;
+    color: floralwhite; 
+}
+/* .text-center{
+    background-color: #9575CD;
+} */
+a{
+    text-decoration: none;
+}
+#header
+{
+    background-color: #5680E9
+}
